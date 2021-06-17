@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+body {
+    background-image: url("../image/font.jpg");
+    font-family: "Oswald";
+    margin-top: 20px;
+}
+
+.card-margin-bottom {
+    margin-bottom: 5px;
+}
+
+.navbar {
+    font-weight: 800;
+    font-size: 15px;
+    padding-top: 15px;
+}
+
+.navbar-inverse {
+    background-color: rgba(112,112,112,0.65);
+}
+
+.button-margin {
+    margin: 7px;
+}
+
+
