@@ -6,7 +6,7 @@
 
     <servlet>
         <servlet-name>controller</servlet-name>
-        <servlet-class>com.traulko.project.controller.MainController</servlet-class>
+        <servlet-class>com.golubeva.project.controller.MainController</servlet-class>
     </servlet>
 
     <servlet-mapping>
