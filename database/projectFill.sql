@@ -1,9 +1,9 @@
 insert into users (user_email, user_password, user_role, user_status, user_name, user_surname, user_patronymic, user_balance)
 values ("admin@gmail.com", "58b5444cf1b6253a4317fe12daff411a78bda0a95279b1d5768ebf5ca60829e78da944e8a9160a0b6d428cb213e813525a72650dac67b88879394ff624da482f", "ADMIN", "ENABLE", 
-"Yan", "Traulko", "Stanislavovich", 0);
+"Nastya", "Golubeva", "Dmitrievna", 0);
 insert into users (user_email, user_password, user_role, user_status, user_name, user_surname, user_patronymic, user_balance)
 values ("user@gmail.com", "e531286ad0aca20c9cd144a03979090a9d41955970f3654e231a9a49bce7dfab5275313cea083cc642e9d5519ab2e45ce5fd8cc518ad920d1486a4aa0c5f0f4f", "USER", "ENABLE",
-"Olga", "Traulko", "Stanislavovna", 20);
+"Olga", "Petkun", "Stanislavovna", 20);
 
 insert into images (image_name) values ("bac4ee48-8a79-45c7-9c9f-a0e0f7e9e3bd");
 insert into images (image_name) values ("29942f96-44a0-4cc2-a4e0-59dea7b9ce8d");
